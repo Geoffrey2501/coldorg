@@ -1,0 +1,74 @@
+=== FICHE TECHNIQUE : Daikin Altherma 3 (Pompe à chaleur air/eau) ===
+
+Fabricant : Daikin (Japon)
+Type : Pompe à chaleur air/eau - Split (unité intérieure + extérieure)
+Puissances disponibles : 4kW / 6kW / 8kW / 11kW / 14kW / 16kW
+Réfrigérant : R32
+COP nominal : 4.5 à 5.1 (selon puissance, à A7/W35)
+Plage de fonctionnement : -25°C à +35°C extérieur
+Niveau sonore unité ext. : 37-46 dB(A)
+
+--- CODES ERREUR ---
+
+U4 — Défaut de communication unité intérieure/extérieure
+  Causes possibles :
+  - Câble de communication coupé, endommagé ou mal branché
+  - Bornier de connexion oxydé
+  - Carte électronique (intérieure ou extérieure) défaillante
+  Procédure :
+  1. Vérifier le câble de communication (4 fils, continuité)
+  2. Inspecter les borniers des deux unités
+  3. Tester la tension de communication (env. 30V DC entre les bornes)
+  4. Si câble OK, tester en inversant les cartes
+
+E7 — Défaut moteur ventilateur (unité extérieure)
+  Causes possibles :
+  - Moteur ventilateur bloqué (débris, glace, roulement grippé)
+  - Condensateur de démarrage HS
+  - Carte de puissance défaillante
+  Procédure :
+  1. Vérifier que l'hélice tourne librement à la main
+  2. Inspecter visuellement le moteur (traces de brûlure)
+  3. Mesurer la résistance du bobinage
+  4. Tester ou remplacer le condensateur
+  5. Vérifier la carte de puissance si moteur OK
+
+AH — Défaut pompe à eau
+  Causes possibles :
+  - Pompe de circulation bloquée (calcaire, boues)
+  - Air dans le circuit hydraulique
+  - Câblage pompe défectueux
+  Procédure :
+  1. Vérifier que la pompe tourne (bruit, vibration)
+  2. Purger l'air du circuit
+  3. Débloquer manuellement la pompe si nécessaire
+  4. Vérifier le câblage et l'alimentation
+
+7H — Basse pression réfrigérant
+  Causes possibles :
+  - Manque de réfrigérant (fuite)
+  - Filtre déshydrateur bouché
+  - Détendeur électronique bloqué
+  - Échangeur extérieur encrassé (feuilles, poussière)
+  Procédure :
+  1. Vérifier les pressions HP/BP avec manomètres
+  2. Inspecter l'échangeur extérieur (nettoyage si encrassé)
+  3. Vérifier le filtre déshydrateur
+  4. Recherche de fuite si manque de réfrigérant
+
+--- ENTRETIEN RECOMMANDÉ ---
+
+Annuel :
+- Nettoyage de la batterie extérieure (jet d'eau basse pression)
+- Vérification des pressions de fonctionnement
+- Contrôle du niveau de réfrigérant (sous-refroidissement, surchauffe)
+- Nettoyage des filtres hydrauliques
+- Vérification de l'anode du ballon ECS (si ballon intégré)
+- Contrôle des raccords frigorifiques (étanchéité)
+- Test des sécurités (haute pression, basse pression, antigel)
+- Vérification de la courbe de chauffe
+
+Tous les 2-3 ans :
+- Remplacement filtre déshydrateur
+- Vérification de la charge de réfrigérant
+- Contrôle de l'état du compresseur (intensité, vibrations)

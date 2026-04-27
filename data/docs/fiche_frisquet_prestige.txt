@@ -1,0 +1,73 @@
+=== FICHE TECHNIQUE : Frisquet Prestige Condensation ===
+
+Fabricant : Frisquet (France)
+Type : Chaudière gaz à condensation murale
+Puissances disponibles : 20kW / 25kW / 32kW
+Rendement : jusqu'à 109% sur PCI
+Fluide caloporteur : Eau
+Pression de service : 3 bar max
+Raccordement gaz : G20 (gaz naturel) / G31 (propane)
+
+--- CODES ERREUR ---
+
+E133 — Défaut d'allumage
+  Causes possibles :
+  - Pas d'arrivée de gaz (robinet fermé, compteur bloqué, pression réseau insuffisante)
+  - Électrode d'allumage encrassée ou mal positionnée (écart correct : 3mm)
+  - Fil de masse desserré sur le boîtier de contrôle
+  - Problème d'ionisation (courant < 1 microA)
+  - Carte électronique défaillante (rare)
+  Procédure de diagnostic :
+  1. Vérifier que le robinet gaz est ouvert
+  2. Vérifier la pression gaz en entrée (20 mbar pour G20)
+  3. Inspecter et nettoyer l'électrode d'allumage
+  4. Vérifier l'écart électrode (3mm)
+  5. Contrôler le fil de masse et les connexions
+  6. Mesurer le courant d'ionisation (doit être > 1 microA)
+  7. Si tout est OK, suspecter la carte électronique
+
+E125 — Défaut de circulation / surchauffe primaire
+  Causes possibles :
+  - Circulateur bloqué ou en vitesse trop basse
+  - Manque d'eau dans le circuit (pression < 1 bar)
+  - Vanne de zone fermée ou bloquée
+  - Filtre à boues saturé
+  - Embouage du circuit
+  Procédure de diagnostic :
+  1. Vérifier la pression du circuit (doit être entre 1.5 et 2 bar)
+  2. Vérifier le fonctionnement du circulateur (bruit, vibration, vitesse)
+  3. Contrôler les vannes de zone (ouvertes ?)
+  4. Inspecter le filtre à boues
+  5. Mesurer le delta T départ/retour (normal : 15-20°C)
+
+E110 — Surchauffe échangeur
+  Causes possibles :
+  - Échangeur principal entartré (eau calcaire)
+  - Circulateur HS ou sous-dimensionné
+  - Débit d'eau insuffisant dans l'installation
+  Procédure de diagnostic :
+  1. Mesurer le débit d'eau à travers l'échangeur
+  2. Vérifier l'entartrage (bruits de bouillonnement = signe d'entartrage)
+  3. Contrôler le circulateur (intensité, débit)
+  4. Si entartré : détartrage chimique (acide citrique ou produit spécialisé)
+
+--- ENTRETIEN ANNUEL ---
+
+Points de contrôle obligatoires :
+- Nettoyage du brûleur et de l'échangeur
+- Vérification de l'étanchéité gaz (raccords, vanne gaz)
+- Contrôle des sécurités (ionisation, thermostat, pressostat)
+- Analyse de combustion : CO < 50ppm, CO2 entre 8.5% et 9.5%
+- Vérification du vase d'expansion (pression à froid : 0.8-1 bar)
+- Contrôle du circulateur
+- Vérification de la pression du circuit (1.5-2 bar)
+- Nettoyage du siphon de condensat
+- Vérification du conduit d'évacuation des fumées
+
+--- PIÈCES D'USURE COURANTES ---
+
+- Électrode d'allumage/ionisation : remplacement tous les 3-5 ans
+- Joint de bride échangeur : remplacement si fuite
+- Vase d'expansion : vérification annuelle, remplacement si membrane percée
+- Soupape de sécurité 3 bar : remplacement si fuite permanente
+- Circulateur : durée de vie 10-15 ans

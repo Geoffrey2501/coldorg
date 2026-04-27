@@ -1,0 +1,56 @@
+=== FICHE TECHNIQUE : Saunier Duval ThemaPlus Condens ===
+
+Fabricant : Saunier Duval (France / Groupe Vaillant)
+Type : Chaudière gaz à condensation murale mixte (chauffage + ECS)
+Puissances disponibles : 25kW / 30kW
+Rendement : jusqu'à 108% sur PCI
+Production ECS : instantanée, débit 12-14 L/min à delta T 30°C
+Raccordement gaz : G20 / G31
+
+--- CODES ERREUR ---
+
+F28 — Défaut d'allumage (échec après plusieurs tentatives)
+  Causes possibles :
+  - Pas de gaz (robinet fermé, pression insuffisante)
+  - Électrode d'allumage/ionisation usée ou encrassée
+  - Câblage de l'électrode défectueux
+  - Électrovanne gaz fatiguée ou HS
+  - Carte électronique défaillante (relais d'allumage)
+  Procédure :
+  1. Vérifier l'arrivée de gaz et la pression (20 mbar)
+  2. Inspecter l'électrode (état, position, câblage)
+  3. Mesurer le courant d'ionisation (> 1 microA requis)
+  4. Tester l'électrovanne gaz (tension de commande, courant)
+  5. Si défaut récurrent malgré pièces OK : remplacer la carte
+
+F20 — Surchauffe / sécurité température
+  Causes possibles :
+  - Vase d'expansion dégonflé ou percé
+  - Circulateur défaillant
+  - Embouage du circuit
+  - Soupape de sécurité défectueuse
+  Procédure :
+  1. Vérifier la pression du vase d'expansion (0.75-1 bar à froid)
+  2. Vérifier la pression du circuit (1-1.5 bar)
+  3. Contrôler le circulateur
+  4. Inspecter la soupape de sécurité
+  5. Purger les radiateurs
+
+--- ENTRETIEN ANNUEL ---
+
+- Nettoyage du corps de chauffe et du brûleur
+- Vérification et nettoyage du siphon condensat
+- Contrôle d'étanchéité gaz
+- Analyse de combustion (CO < 50ppm)
+- Vérification du vase d'expansion
+- Contrôle du débit ECS
+- Vérification de la sécurité anti-refoulement
+- Nettoyage du filtre d'entrée eau froide
+
+--- PIÈCES D'USURE ---
+
+- Électrode d'allumage/ionisation : tous les 3-4 ans
+- Vase d'expansion (membrane) : tous les 5-8 ans
+- Soupape de sécurité : tous les 5 ans
+- Corps de chauffe : nettoyage annuel, remplacement si corrosion
+- Joints et garnitures : à chaque intervention si nécessaire

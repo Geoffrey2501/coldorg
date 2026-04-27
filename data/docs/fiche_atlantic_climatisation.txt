@@ -1,0 +1,65 @@
+=== FICHE TECHNIQUE : Atlantic Idéa (Climatisation murale) ===
+
+Fabricant : Atlantic (France)
+Type : Climatiseur mural réversible (split)
+Puissances disponibles : 2.6kW / 3.5kW / 5kW
+Réfrigérant : R32
+Classe énergétique : A++ (froid) / A+ (chaud)
+SEER : 6.1 à 7.0
+SCOP : 4.0 à 4.6
+Niveau sonore unité int. : 19-22 dB(A) en mode silence
+
+--- PROBLÈMES COURANTS (sans code erreur) ---
+
+Fuite d'eau unité intérieure
+  Causes possibles :
+  - Bac de condensat obstrué (algues, poussière)
+  - Tuyau d'évacuation bouché ou mal penté
+  - Pompe de relevage en panne (si installée)
+  - Unité intérieure pas de niveau
+  Solutions :
+  1. Nettoyer le bac de condensat
+  2. Déboucher le tuyau d'évacuation (pompe à main ou azote)
+  3. Vérifier et corriger la pente (minimum 1%)
+  4. Installer une pastille anti-algues
+  5. Vérifier la pompe de relevage si présente
+
+Ne refroidit plus / souffle tiède
+  Causes possibles :
+  - Manque de réfrigérant (fuite au raccord évasé, à la vanne de service)
+  - Filtres intérieurs encrassés
+  - Échangeur extérieur bouché
+  - Compresseur défaillant
+  Diagnostic :
+  1. Nettoyer les filtres intérieurs
+  2. Mesurer le delta T soufflage (doit être > 8°C)
+  3. Vérifier les pressions frigorifiques
+  4. Recherche de fuite si manque de réfrigérant
+  5. Écouter le compresseur (bruit anormal, vibrations)
+
+Bruit anormal
+  Causes possibles :
+  - Dilatation thermique de la carrosserie (claquements)
+  - Fixation murale desserrée
+  - Ventilateur intérieur encrassé (balourd)
+  - Vibrations transmises par les liaisons frigorifiques
+  Solutions :
+  1. Resserrer la fixation murale
+  2. Ajouter des cales en mousse
+  3. Nettoyer le ventilateur tangentiel
+  4. Vérifier les supports anti-vibrations des liaisons
+
+--- ENTRETIEN ---
+
+Tous les 3 mois (par l'utilisateur) :
+- Nettoyage des filtres à air (eau tiède + savon doux)
+
+Annuel (par un professionnel) :
+- Nettoyage de l'échangeur intérieur (nettoyant spécial climatisation)
+- Nettoyage du bac de condensat
+- Vérification de l'évacuation des condensats
+- Nettoyage de l'échangeur extérieur
+- Contrôle des pressions de fonctionnement
+- Vérification de l'étanchéité du circuit frigorifique
+- Contrôle électrique (intensités, tensions)
+- Test des modes (froid, chaud, ventilation)
