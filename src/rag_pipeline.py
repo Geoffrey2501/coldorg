@@ -49,6 +49,9 @@ class RAGPipeline:
         self._mistral = None     # lazy init
         self._chroma = None      # lazy init
         self._conversation_history: list[dict] = []
+        self.use_api = os.environ.get("MISTRAL_API_KEY") is not None
+        if not self.use_api:
+            print("[pipeline] ATTENTION : Pas de clé API. Mode LOCAL activé.")
 
     @property
     def mistral(self):
