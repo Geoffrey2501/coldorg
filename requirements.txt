@@ -5,7 +5,7 @@ rich>=13.0.0
 # Ajouts pour le mode local
 sentence-transformers
 ollama
-# Fix pour les conflits OpenTelemetry
+
 opentelemetry-api==1.27.0
 opentelemetry-sdk==1.27.0
 opentelemetry-semantic-conventions==0.48b0

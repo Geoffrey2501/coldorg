@@ -50,13 +50,16 @@ source .venv/bin/activate  # ou .venv\Scripts\activate sur Windows
 pip install -r requirements.txt
 ```
 
-### 2. Configuration de la clé API
-
+### 2. Configuration de la clé API ou du model en local
+Pour utiliser l'api de mistral
 ```bash
 cp .env .env
 # Édite .env et renseigne ta clé MISTRAL_API_KEY
 ```
-
+Pour utiliser un model local
+```bash
+ollama pull llama3 #installer ollama si besoin
+```
 ### 3. Évaluation sur les 5 questions de test
 
 ```bash
